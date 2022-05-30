@@ -22,6 +22,6 @@ Phase II: Strategic capital 70%; Community contribution incentives to ErgoDAO in
 
 Capital is the main factor that accelerates strong founding teams in the initial phase - it enables teams to develop early-stage projects from MVP to TestNet; this explains the weighting given to capital.
 
-Mainnet to Testnet can be a developer-intensive process, and significant resources can be necessary for non-tech issues, such as marketing and legal. To ensure that projects have the best chance of success, ErgoDAO will incentivize contributions from developers and business operations experts.
+Testnet to Mainnet can be a developer-intensive process, and significant resources can be necessary for non-tech issues, such as marketing and legal. To ensure that projects have the best chance of success, ErgoDAO will incentivize contributions from developers and business operations experts.
 
 Following a successful pilot, ErgoDAO intends to approach supportive DAO funders such as BitDAO to raise significant capital in three tranches. Initially, $30M will be requested, followed by two additional tranches of $30M based on milestones reached and funder governance vote approval.
