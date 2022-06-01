@@ -4,4 +4,7 @@ A key component of accelerating strong founding teams is capital - the most cruc
 
 The DAO will fund various verticals to help develop, foster and support the Ergo ecosystem. Given Ergo's general-purpose nature, the Executive Team will review this list regularly and add more verticals as they mature.
 
-Funding will focus initially on the following verticals: Defi, NFTs, Games, Payments, Privacy, Interoperability, Oracles, Data Management, Data Analytics, File Storage, DAOs, Digital Identity, and Social.
+Funding will focus in particular on 2 key aspects:
+
+1. Strategic projects that directly benefit the adoption of the Ergo blockchain
+2. Investment projects that offer a significant capital upside potential

@@ -12,6 +12,7 @@
 * [Vision](ergodao-white-paper/vision.md)
 * [Intellectual Capital](ergodao-white-paper/intellectual-capital.md)
 * [Strategic Capital](ergodao-white-paper/strategic-capital.md)
+* [Investment](ergodao-white-paper/investment.md)
 * [Contributor Incentives](ergodao-white-paper/contributor-incentives.md)
 * [Phase I](ergodao-white-paper/phase-i.md)
 * [Phase II](ergodao-white-paper/phase-ii.md)
