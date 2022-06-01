@@ -21,4 +21,4 @@
 * [Treasury Management](ergodao-white-paper/treasury-management.md)
 * [Incentivization](ergodao-white-paper/incentivization.md)
 * [Funding](ergodao-white-paper/funding.md)
-* [Background](ergodao-white-paper/background.md)
+* [Get involved](ergodao-white-paper/get-involved.md)
