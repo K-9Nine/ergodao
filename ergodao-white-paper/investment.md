@@ -1,3 +1,7 @@
+---
+description: Subject to legal review and NOT to be relied upon
+---
+
 # Investment
 
 ErgoDAO is a for profit investment DAO.\
